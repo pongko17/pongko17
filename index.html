@@ -73,6 +73,11 @@
                             <h3>유니티코리아 Sale Administrator</h3>
                             <h4>unity korea Sale Administrator</h4>
                         </li>
+                        <li>
+                            <h2>2019-2020</h2>
+                            <h3>엘엠프렌즈 Assistant Enginneer</h3>
+                            <h4>LM Friends Assistant Enginneer</h4>
+                        </li>
                     </ul>
                 </div>
             </div>
