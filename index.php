@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Kim Hwanhee Web Programer / Publisher </title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Civic - CV Resume">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="img/favicon.ico" rel="shortcut icon" />
+
+    <link href="https://fonts.googleapis.com/css?family=Do+Hyeon|Noto+Sans+KR|Sunflower:300&display=swap" rel="stylesheet">
+<!-- 폰트어썸 -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- 부트스트랩 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script src="./jqueryCircleProgress\dist\circle-progress.min.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="./css/style.css" />
+    <!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+    <section class="hero-section spad">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-12 offset-xl-1">
+                    <div class="row">                        
+                        <div class="col-lg-6">
+                            <div class="hero-text">
+                                <h2>Kim Hwanhee</h2>
+                                <p>
+                                    새로운 것을 배우는 것은 쉬운 일은 아니지만<br> 두려움 없이 시작할 수 있는 용기를 가지고 있습니다.
+                                </p>
+                            </div>
+                            <div class="hero-info">
+                                <h2>General Info</h2>
+                                <ul>
+                                    <li><span>Date of Birth</span>Oct 3, 1989</li>
+                                    <li><span>Address</span>경기도 안산시 단원구</li>
+                                    <li><span>E-mail</span>hwanhee@kimtendo.com</li>
+                                    <li><span>KakaoTalk</span><a href="https://open.kakao.com/o/sMhsfkKb" target="_blank">오픈채팅 바로가기</a></li>
+                                </ul>
+                            </div>
+                        </div>   
+                        <div class="col-lg-6">
+                            <figure class="hero-image">
+                                <img src="img/pa4.png" alt="me">
+                            </figure>
+                        </div>                     
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+  <section class="resume-section spad">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-7 offset-xl-2">
+                    <div class="section-title">
+                        <h2>Work Experience</h2>
+                    </div>
+                    <ul class="resume-list">
+                        <li>
+                            <h2>2012-2016</h2>
+                            <h3>유니티코리아 Sale Administrator</h3>
+                            <h4>unity korea Sale Administrator</h4>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="resume-section with-bg spad">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-7 offset-xl-2">
+                    <div class="section-title">
+                        <h2>Education</h2>
+                    </div>
+                    <ul class="resume-list">
+                        <li>
+                            <h2>2019</h2>
+                            <h3>라인컴퓨터아트학원 스마트 웹 UI/UX 디자인 콘텐츠 개발 과정</h3>
+                            <h4>Line Computer Art Academy Smart Web UI / UX Design Content Development Course</h4>
+                            
+                        </li>
+                        <li>
+                            <h2>2008-2012</h2>
+                            <h3>평택대학교 중국학과</h3>
+                            <h4>Pyeongtaek University Department of Chinese Studies</h4>
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="portfolio-section spad pb-0">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-4 col-md-8 offset-xl-2 ">
+                    <div class="section-title">
+                        <h2>Portfolio</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-warp">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/relais_christine/" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>4주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>4명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, SASS, JavaScript, jQuery<br> PHP, SQL, Ajax</dd>
+                                    </dl>
+                                    <p>싱그러운 정원이 있는 호텔을 주제로, 메인에 간편하고 빠른 예약 배너 시스템을 추가하였으며, 예약 내역을 확인할 수 있는 마이페이지와, 예약 및 회원을 관리할 수 있는 관리자페이지도 함께 구현하였다.</p>
+                                </div>                            
+                            </a>                            
+                            <div class="portfolio-title">
+                                <h2>Relais Christine Hotel</h2>
+                                <p>호텔 예약 페이지</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>
+                                <input type="hidden"  value="Portfolio_Hotel_Reserve_System_Relais_Christine.pdf">
+                            </div>                            
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/cart/?main" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>2주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>1명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, SASS, JavaScript, jQuery<br> PHP, SQL, Ajax</dd>
+                                    </dl>
+                                    <p>Samsung의 Galaxy S10을 구매할 수 있는 장바구니 페이지로 모델명, 색상, 용량 등의 다양한 옵션을 선택하여 담을 수 있도록 구현하였다.</p>
+                                </div>   
+                            </a>
+                            <div class="portfolio-title">
+                                <h2>Galaxy S10</h2>
+                                <p>갤럭시 S10의 장바구니 페이지</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>
+                                <input type="hidden"  value="Portfolio_Shopping_Cart_For_Galaxy_S10.pdf">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/bookRentalList/" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>2주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>1명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, CSS, JavaScript, jQuery<br> PHP, SQL, Bootstrap4</dd>
+                                    </dl>
+                                    <p>PHP와 DB를 활용하여 도서 대여 관리를 할 수 있는 페이지로, 관리자 계정으로는 도서의 등록,삭제,수정 및 회원 관리가 가능하며, 회원 계정으로는 책을 대여하고 반납할 수 있으며, Bootstrap4를 사용하여 구현하였다.</p>
+                                </div>   
+                            </a>
+                            <div class="portfolio-title">
+                                <h2>Book Management System</h2>
+                                <p>도서 관리 시스템</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>
+                                <input type="hidden"  value="Portfolio_Book_Management_System.pdf">                                
+                            </div>
+                        </div>
+                    </div>                  
+                    
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/Favorite/html/up.html" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>4주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>1명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, CSS, JavaScript, jQuery</dd>
+                                    </dl>
+                                    <p>`픽사 최고의 5분`이라는 타이틀을 갖고 있는 작품 `UP`의 소개페이지로, jQuery의 다양한 이벤트를 활용하여 구현하였다.</p>
+                                </div>   
+                            </a>
+                            <div class="portfolio-title">
+                                <h2>What's UP</h2>
+                                <p>픽사 'UP'의 소개 페이지</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>
+                                <input type="hidden"  value="Portfolio_Introduce_Page_UP.pdf">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/Myblog/html/OBI-HWAN_STORY.html" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>4주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>1명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, CSS, JavaScript</dd>
+                                    </dl>
+                                    <p>스타워즈를 모티브로 JavaScript의 객체를 활용하여 자기소개 페이지를 구현하였다.</p>
+                                </div>   
+                            </a>
+                            <div class="portfolio-title">
+                                <h2>OBI-WHAN STORY</h2>
+                                <p>스타워즈 테마의 개인 블로그</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>
+                                <input type="hidden"  value="Portfolio_Introduce_Self_OBI-WHAN.pdf">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="portfolio-item">
+                            <a href="http://kimtendo.com/PORTFOLIO/shoppingMall/html/banana_intro.html" target="_blank" class="set-bg port-pic" >
+                                <div class="set-bg port-pic portfolio-desc">
+                                    <dl>
+                                        <dt>제작기간</dt>
+                                        <dd>4주</dd>
+                                        <dt>제작인원</dt>
+                                        <dd>3명</dd>
+                                        <dt>사용언어</dt>
+                                        <dd>HTML5, CSS, JavaScript</dd>
+                                    </dl>
+                                    <p>메인 페이지를 선정적이지 않게 하여 부담없이 방문할 수 있도록 모던하고 고급스러운 디자인을 목표로 구현하였다.</p>
+                                </div>   
+                            </a>                            
+                            <div class="portfolio-title">
+                                <h2>BANANA</h2>
+                                <p>이벤트 속옷 쇼핑몰</p>
+                                <i class="far fa-file-alt fileIcon" data-toggle="tooltip" data-placement="bottom" title="문서보기"></i>   
+                                <input type="hidden"  value="Portfolio_Shopping_Mall_BANANA_2.pdf">
+                            </div>                                                 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="extra-section spad pb-0">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="section-title">
+                        <h2>Main Skills</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress95"></div>
+                                        <div class="progress-info">
+                                            <h2>95%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>HTML</h3>
+                                            <p>시멘틱 태그에 대한 개념을 알고 있으며, Form 요소를 활용하여 회원가입 페이지를 작성 할 수 있습니다.<br><br>  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress70"></div>
+                                        <div class="progress-info">
+                                            <h2>70%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>SCSS</h3>
+                                            <p>SCSS 구조적으로 Nesting 하여 작성이 가능하며, 변수 사용 및 반복문과 조건문을 사용 할 수 있습니다.<br><br>  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress90"></div>
+                                        <div class="progress-info">
+                                            <h2>90%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>JavaScript & jQuery</h3>
+                                            <p>조건문과 반복문을 능숙하게 다룰 수 있습니다. 또한, jQuery를 활용하여 스크롤에 따른 애니메이션을 능숙하게 다룰 수 있습니다.<br><br>  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress90"></div>
+                                        <div class="progress-info">
+                                            <h2>90%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>PHP</h3>
+                                            <p>HTML Form에서 넘어온 값을 다룰 줄 알며, 파일 생성과 업로드, 다운로드 등을 구현할 수 있습니다. SQL과 연결하여 DB를 조작할 수 있습니다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress80"></div>
+                                        <div class="progress-info">
+                                            <h2>80%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>MySQL</h3>
+                                            <p>테이블을 생성, 삽입, 삭제, 수정을 할 수 있고, join을 통해 테이블을 결합하여 결과를 출력 할 수 있습니다.  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress90"></div>
+                                        <div class="progress-info">
+                                            <h2>90%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>Ajax</h3>
+                                            <p>비동기 통신을 위해 JavaScript와 jQuery로 사용 할 수 있고, PHP와 Node js를 통해 조작할 수 있습니다.  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress90"></div>
+                                        <div class="progress-info">
+                                            <h2>90%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>BootStrap4</h3>
+                                            <p>BootStrap4를 활용하여 반응형에 대응 할 수 있습니다.<br><br>   </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress60"></div>
+                                        <div class="progress-info">
+                                            <h2>60%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>Node js & PUG (jade)</h3>
+                                            <p>express를 사용하여 웹서비스를 생성 할 수 있고 SQL도 다룰 수 있습니다. 또한 PUG를 이용하여 Node js의 템플렛을 만들 수 있습니다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="extra-section spad pb-0">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="section-title">
+                        <h2>Extra Skills</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div class="prog-circle progress75"></div>
+                                        <div class="progress-info">
+                                            <h2>75%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>PhotoShop</h3>
+                                            <p>이미지 사이즈 조정 및 약간의 이미지 보정이 가능합니다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div  class="prog-circle progress80"></div>
+                                        <div class="progress-info">
+                                            <h2>80%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>Illustrator</h3>
+                                            <p>펜툴과 도형, 패스파인더를 활용하여 디자인 할 수 있습니다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div  class="prog-circle progress80"></div>
+                                        <div class="progress-info">
+                                            <h2>80%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>MS Office</h3>
+                                            <p>Word, Exel, PowerPoint 등 문서 작성이 가능합니다.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 pt-5">
+                            <div class="fact-box trans">
+                                <div class="fact-content">
+                                    <div class="circle-progress">
+                                        <div  class="prog-circle progress70"></div>
+                                        <div class="progress-info">
+                                            <h2>70%</h2>
+                                        </div>
+                                        <div class="prog-title">
+                                            <h3>Hancom Office</h3>
+                                            <p>한글, 한셀, 한쇼 등 문서 작성이 가능합니다.<br><br>  </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="contact-section spad">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="section-title">
+                        <h2>Contact Me</h2>
+                    </div>
+                    <form class="contact-form" action="./index.php" method="POST">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input type="text" name="senderName" placeholder="Name">
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" name="senderEmail" placeholder="E-mail">
+                            </div>
+                            <div class="col-md-12">
+                                <input type="text" name="mailSubject" placeholder="Subject">
+                                <textarea name="mailMessage" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                        <div class="text-md-right">
+                            <button class="site-btn" type="submit" name="submitBtn">Send message</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+<?
+
+?>
+
+    <footer class="footer-section">
+        <div class="container text-center">
+            <div class="copyright">
+                본 페이지는 개인 포트폴리오 용도로 작성되었음을 알려드립니다.
+            </div>
+        </div>
+    </footer>
+    <script>
+        
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();
+            var i=0;
+            while(i<$(".portfolio-item a").length){
+                $(".portfolio-item a").eq(i).css("background-image","url('./img/portfolio/"+(i+1)+".png')").css("background-size","cover");
+                i++;
+            }   
+        });     
+        
+        $(window).on("scroll",function(){
+            if($(this).scrollTop()>4400){
+                $(".progress95").circleProgress({
+                    value: 0.95,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress90").circleProgress({
+                    value: 0.90,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress85").circleProgress({
+                    value: 0.85,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress80").circleProgress({
+                    value: 0.80,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress75").circleProgress({
+                    value: 0.75,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress70").circleProgress({
+                    value: 0.70,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress60").circleProgress({
+                    value: 0.60,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+                $(".progress50").circleProgress({
+                    value: 0.50,
+                    size: 175,
+                    thickness: 2,
+                    fill: "#009fff",
+                    emptyFill: "rgba(0, 0, 0, 0)"
+                });
+            }
+        });
+        $('.fileIcon').on("click",function(){
+            var hrefLink = "./file/"+$(this).next().val();
+            console.log($(this).next().val());
+            window.open(hrefLink, 'newWindow');
+        });
+        
+    </script>
+</body>
+</html>
